@@ -1,2 +1,2 @@
 # demo-queue
-To demo the github merge queue setup and usage
+To demo the github merge queue setup and usage.
